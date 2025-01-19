@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: SpritesMenu Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: SpritesMenu
+  m_TableCollectionNameGuidString: 1e0c148c78480ce44b1e60e683e42c93
+  m_Entries:
+  - m_Id: 1342326743040
+    m_Key: start_on
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1447175954432
+    m_Key: start_off
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1465114992640
+    m_Key: exit_on
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1487466438656
+    m_Key: exit_off
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1507456491520
+    m_Key: options_on
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1538041356288
+    m_Key: options_off
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1559180648448
+    m_Key: music_on
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1574674407424
+    m_Key: music_off
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1595771756544
+    m_Key: sound_on
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1611789803520
+    m_Key: sound_off
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1628202115072
+    m_Key: back_on
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1645402955776
+    m_Key: back_off
+    m_Metadata:
+      m_Items: []
+  - m_Id: 289468731400192
+    m_Key: dinosaurio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 289555364749312
+    m_Key: tituloOpciones
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items:
+    - rid: 7415586384720167020
+  m_KeyGenerator:
+    rid: 7415586384720167019
+  references:
+    version: 2
+    RefIds:
+    - rid: 7415586384720167019
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1729875629883
+    - rid: 7415586384720167020
+      type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        - m_KeyId: 1645402955776
+          m_TableCodes:
+          - es
+          - gl
+          - en
+        - m_KeyId: 1628202115072
+          m_TableCodes:
+          - es
+          - gl
+          - en
+        - m_KeyId: 1611789803520
+          m_TableCodes:
+          - es
+          - gl
+          - en
+        - m_KeyId: 1595771756544
+          m_TableCodes:
+          - es
+          - gl
+          - en
+        - m_KeyId: 1574674407424
+          m_TableCodes:
+          - es
+          - gl
+          - en
+        - m_KeyId: 1559180648448
+          m_TableCodes:
+          - es
+          - gl
+          - en
+        - m_KeyId: 1538041356288
+          m_TableCodes:
+          - es
+          - gl
+          - en
+        - m_KeyId: 1507456491520
+          m_TableCodes:
+          - es
+          - gl
+          - en
+        - m_KeyId: 1487466438656
+          m_TableCodes:
+          - es
+          - gl
+          - en
+        - m_KeyId: 1465114992640
+          m_TableCodes:
+          - es
+          - gl
+          - en
+        - m_KeyId: 1342326743040
+          m_TableCodes:
+          - es
+          - gl
+          - en
+        - m_KeyId: 1447175954432
+          m_TableCodes:
+          - es
+          - gl
+          - en
+        - m_KeyId: 289468731400192
+          m_TableCodes:
+          - en
+          - gl
+          - es
+        - m_KeyId: 289555364749312
+          m_TableCodes:
+          - es
+          - gl
+          - en
+        m_TypeString: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null

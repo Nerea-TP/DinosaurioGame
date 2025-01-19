@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97269afb30aa84742ae3f3342603618a, type: 3}
+  m_Name: SpritesMenu_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 1e0c148c78480ce44b1e60e683e42c93, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1645402955776
+    m_Localized: d08b08c4c1bcfaf4db4bef8384d9c769
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1628202115072
+    m_Localized: f3b359fcce4ff944ebfaeab833a15902
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1595771756544
+    m_Localized: eeb58510b75cb1e449078e59c9ef1889
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1611789803520
+    m_Localized: 7d01f520c09900044866de540e77b137
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1559180648448
+    m_Localized: 89e0855887fdc0c43bca2883ea433b63
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1574674407424
+    m_Localized: 78b6ee3d96859f84b8b901f084bcf930
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1487466438656
+    m_Localized: c3b14fa86b9f3d14e824348942faf101
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1465114992640
+    m_Localized: 9f488851564dc1a47a41c3152a39d79b
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1447175954432
+    m_Localized: 0b9af18888b99f045bc00a620c27e3c1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1342326743040
+    m_Localized: 92d4c384f30db5d43b7aa4e0f52f0659
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1538041356288
+    m_Localized: 567a5e6b7071b36428931609960a0b67
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1507456491520
+    m_Localized: a8539e3975588db488c033899eee4757
+    m_Metadata:
+      m_Items: []
+  - m_Id: 289468731400192
+    m_Localized: 1555cf5c4dde5674a8f03fd894d7729e
+    m_Metadata:
+      m_Items: []
+  - m_Id: 289555364749312
+    m_Localized: c5e7c6c453a3c6f47826b07965c3ba6a
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

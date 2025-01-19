@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Prueba Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Prueba
+  m_TableCollectionNameGuidString: ac867c51cef72d04db8ebba2a1e8a65e
+  m_Entries:
+  - m_Id: 30935654400
+    m_Key: Instrucciones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11760826884096
+    m_Key: Warning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11854678630400
+    m_Key: Checkpoints
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11876262518784
+    m_Key: TituloControles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11913025593344
+    m_Key: Controles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17872791838720
+    m_Key: Empezar_Android
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22047600713728
+    m_Key: Empezar_PC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1768739652018176
+    m_Key: Pausa_PC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1768928051765248
+    m_Key: Niveles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1769103935709184
+    m_Key: GameOver_Android
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1769133971120128
+    m_Key: GameOver_PC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5051767312654336
+    m_Key: CamposCompletos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5052296432492544
+    m_Key: "Contrase\xF1aErronea"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5052483754303488
+    m_Key: EmailErroneo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5054389264359424
+    m_Key: EntradaEmail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5054474593280000
+    m_Key: "Entrada contrase\xF1a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5077310888255488
+    m_Key: Creditos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7233383522934784
+    m_Key: Ranking_Android
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7233424635502592
+    m_Key: Ranking_PC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7235907403423744
+    m_Key: PlayerID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7236066824724480
+    m_Key: Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7236524914024448
+    m_Key: RESTART
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7237206383566848
+    m_Key: EXIT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9337330706456576
+    m_Key: "Contrase\xF1a"
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7415586274202091544
+  references:
+    version: 2
+    RefIds:
+    - rid: 7415586274202091544
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1729445179292

@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Prueba_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: ac867c51cef72d04db8ebba2a1e8a65e, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 7415586384720167000
+  m_TableData:
+  - m_Id: 30935654400
+    m_Localized: El objetivo del juego es alcanzar la maxima puntuacion posible para
+      subir en la clasificacion. Los jugadores comienzan con tres vidas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11876262518784
+    m_Localized: 'CONTROLES:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11913025593344
+    m_Localized: 'DCHA/IZQ:  -->/<--
+
+      SALTAR: ESPACIO
+
+      PAUSAR: P
+
+      SALIR: 
+      ESC'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11854678630400
+    m_Localized: "Puntos de Control: Al activarlos, tu posicion se guarda. Si caes
+      en un vac\xEDo o tocas una trampa, reapareceras en el ultimo punto de control
+      activado."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11760826884096
+    m_Localized: '- Trampas: Cuidado con ellas, pueden costarte una vida.
+
+
+      -
+      Enemigos: Para derrotarlos, salta sobre sus espaldas.
+
+
+      - Caida en el
+      Vacio: Evita caer en el vacio, es peligroso.
+
+
+      - Cuando pierdas todas
+      tus vidas: Volveras al NIVEL UNO.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17872791838720
+    m_Localized: TOCA PARA EMPEZAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22047600713728
+    m_Localized: PULSA <INTRO> PARA EMPEZAR
+    m_Metadata:
+      m_Items:
+      - rid: 7415586384720167000
+  - m_Id: 1768928051765248
+    m_Localized: 'Nivel {0}
+
+'
+    m_Metadata:
+      m_Items:
+      - rid: 7415586384720167000
+  - m_Id: 1768739652018176
+    m_Localized: "PAUSADO\\nPRESIONA <P> PARA CONTINUAR\r"
+    m_Metadata:
+      m_Items:
+      - rid: 7415586384720167000
+  - m_Id: 1769103935709184
+    m_Localized: 'FIN DE JUEGO PRESIONA REINICIAR
+
+      O PRESIONE MENU'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1769133971120128
+    m_Localized: 'FIN DEL JUEGO
+
+      PRESIONA <INTRO> PARA REINICIAR
+
+      O
+
+      <P>
+      PARA VOLVER AL MENU'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5051767312654336
+    m_Localized: Por favor, completa todos los campos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5052296432492544
+    m_Localized: "Contrase\xF1a incorrecta, int\xE9ntalo otra vez"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5052483754303488
+    m_Localized: 'Introduce una direccion de correo electronico
+
+      valida nombredeusuario@dominio.com'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5054389264359424
+    m_Localized: "Introduce el correo electr\xF3nico..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5054474593280000
+    m_Localized: "Introduce la contrase\xF1a..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5077310888255488
+    m_Localized: "Desarrolladores: Nerea Trillo, P\xE9rez | Dise\xF1adores: Nerea
+      Trillo P\xE9rez, Paco Barba, Clker-Free-Vector-Images, flaticon.es | M\xFAsica
+      y Sonido: Paco Barba | Agradecimientos Especiales: A mi familia y amigos por
+      su apoyo incondicional. A todos los jugadores por su entusiasmo y feedback
+      | Herramientas y Tecnolog\xEDas: Unity, Visual Studio, Firebase, GIMP"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7233424635502592
+    m_Localized: 'PARA VOLVER AL MENU PRESIONE LA TECLA <<M>> PARA SALIR, PRESIONE
+      <<ESC>>
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7233383522934784
+    m_Localized: PRESIONA SALIR O PRESIONE MENU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7235907403423744
+    m_Localized: JUGADORID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7236066824724480
+    m_Localized: "PUNTUACI\xD3N"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7236524914024448
+    m_Localized: REINICIAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7237206383566848
+    m_Localized: SALIR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9337330706456576
+    m_Localized: "M\xEDnimo 6 caracteres"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 7415586384720167000
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 1768739652018176
+        - id: 22047600713728
+        - id: 1768928051765248

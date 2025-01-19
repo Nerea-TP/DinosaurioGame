@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Prueba_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: ac867c51cef72d04db8ebba2a1e8a65e, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 7415586384720166998
+  m_TableData:
+  - m_Id: 30935654400
+    m_Localized: "The objective of the game is to achieve the highest score possible
+      to climb the leaderboard. Players start with three lives.\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11876262518784
+    m_Localized: "CONTROLS:\t\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11913025593344
+    m_Localized: 'RIGHT/LEFT:  -->/<--
+
+      jUMP:  SPACE
+
+      PAUSE GAME: P
+
+      EXIT
+      GAME:  ESC'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11854678630400
+    m_Localized: "Checkpoints: Upon activation, your position is saved. If you fall
+      into a void or touch a trap,  you\u2019ll respawn at the last activated checkpoint."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11760826884096
+    m_Localized: "- Traps: Beware of them, they can cost you a life.\n\n- Enemies:
+      To defeat them, jump on their backs:\r\n\n- Falling into the Void: Avoid falling
+      into the void, it\u2019s perilous:\n\n- When you lose all your lives, you\u2019ll
+      return to level ONE."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17872791838720
+    m_Localized: TAP TO START
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22047600713728
+    m_Localized: PRESS <RETURN> TO START
+    m_Metadata:
+      m_Items:
+      - rid: 7415586384720166998
+  - m_Id: 1769103935709184
+    m_Localized: 'GAME OVER TAP TO RESTART
+
+      OR
+
+      TAP TO GO BACK TO MENU
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1769133971120128
+    m_Localized: "GAME OVER\nPRESS <RETURN> TO RESTART \nOR\n<M> TO GO BACK TO MENU\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1768928051765248
+    m_Localized: 'Level {0}
+
+'
+    m_Metadata:
+      m_Items:
+      - rid: 7415586384720166998
+  - m_Id: 1768739652018176
+    m_Localized: PAUSED\nPRESS <P> TO RESUME
+    m_Metadata:
+      m_Items:
+      - rid: 7415586384720166998
+  - m_Id: 5051767312654336
+    m_Localized: Please fill out all fields
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5052296432492544
+    m_Localized: Incorrect password, please try again
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5052483754303488
+    m_Localized: Please enter a valid email  address username@domain.com
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5054389264359424
+    m_Localized: Enter email...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5054474593280000
+    m_Localized: Enter password...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5077310888255488
+    m_Localized: "Developers: Nerea Trillo, P\xE9rez | Designers: Nerea Trillo P\xE9rez,
+      Paco Barba, Clker-Free-Vector-Images, flaticon.es | Music and Sound: Paco Barba
+      | Special Thanks: To my family and friends for their unconditional support.
+      To all the players for their enthusiasm and feedback | Tools and Technologies:
+      Unity, Visual Studio, Firebase, GIMP\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7233424635502592
+    m_Localized: TO RETURN TO THE MENU, PRESS <<M>> TO EXIT, PRESS <<ESC>>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7233383522934784
+    m_Localized: TAP TO EXIT OR TAP TO GO BACK TO MENU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7235907403423744
+    m_Localized: PLAYERID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7236066824724480
+    m_Localized: SCORE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7236524914024448
+    m_Localized: RESTART
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7237206383566848
+    m_Localized: EXIT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9337330706456576
+    m_Localized: Minimum 6 characters
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 7415586384720166998
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 1768739652018176
+        - id: 22047600713728
+        - id: 1768928051765248

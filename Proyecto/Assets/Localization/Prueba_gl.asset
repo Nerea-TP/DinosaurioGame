@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Prueba_gl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: gl
+  m_SharedData: {fileID: 11400000, guid: ac867c51cef72d04db8ebba2a1e8a65e, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 7415586384720166999
+  m_TableData:
+  - m_Id: 30935654400
+    m_Localized: O obxectivo do xogo e acadar a maxima puntuacion posible para subir
+      na clasificacion. Os xogadores comenzan con tres vidas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11876262518784
+    m_Localized: 'CONTROIS:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11913025593344
+    m_Localized: "DTA/ESQ:  -->/<--\nSALTAR: ESPAZO\nPAUSAR: P\nSA\xCDR:  ESC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11854678630400
+    m_Localized: 'Puntos de Control: Ao activalos, a tua posicion gardase. Se caes
+      nun baleiro ou tocas unha trampa, reapareceras no ultimo punto de control activado.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11760826884096
+    m_Localized: "- Trampas: Coidado con elas, poden custarche unha vida.\r\n\r\n-
+      Inimigos: Para derrotalos, salta nas s\xFAas costas.\r\n\r\n- Caida no Baleiro:
+      Evita caer no baleiro, e perigoso.\r\n\r\n- Cando perdas todas as tuas vidas:
+      Volveras ao NIVEL UN."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17872791838720
+    m_Localized: TOCA PARA COMEZAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22047600713728
+    m_Localized: PREME <INTRO> PARA COMEZAR
+    m_Metadata:
+      m_Items:
+      - rid: 7415586384720166999
+  - m_Id: 1768928051765248
+    m_Localized: 'Nivel {0}
+
+'
+    m_Metadata:
+      m_Items:
+      - rid: 7415586384720166999
+  - m_Id: 1768739652018176
+    m_Localized: PAUSADO\nPREME <P> PARA CONTINUAR
+    m_Metadata:
+      m_Items:
+      - rid: 7415586384720166999
+  - m_Id: 1769103935709184
+    m_Localized: "FIN DO XOGO PREME REINICIAR\nOU PREME MEN\xDA\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1769133971120128
+    m_Localized: "\rFIN DO XOGO\nPREME <INTRO> PARA REINICIAR\nOU\n<M> PARA VOLTAR
+      AO MENU"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5051767312654336
+    m_Localized: Por favor, completa todos os campos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5052296432492544
+    m_Localized: "Contrasinal incorrecto, int\xE9ntao de novo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5052483754303488
+    m_Localized: 'Introduce unha direccion de correo electronico
+
+      valida nomedeusuario@dominio.com'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5054389264359424
+    m_Localized: "Introduce o correo electr\xF3nico...\t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5054474593280000
+    m_Localized: Introduce o contrasinal...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5077310888255488
+    m_Localized: "Desenvolvedores: Nerea Trillo, P\xE9rez | Dese\xF1adores: Nerea
+      Trillo P\xE9rez, Paco Barba, Clker-Free-Vector-Images, flaticon.es | M\xFAsica
+      e Son: Paco Barba | Agradecementos Especiais: \xC1 mi\xF1a familia e amigos
+      polo seu apoio incondicional. A todos os xogadores polo seu entusiasmo e feedback
+      | Ferramentas e Tecnolox\xEDas: Unity, Visual Studio, Firebase, GIMP\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7233424635502592
+    m_Localized: PARA VOLVER AO MENU, PREMA A TECLA <<M>> PARA SAIR, PREMA <<ESC>>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7233383522934784
+    m_Localized: ' PREME SAIR OU PREME MENU'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7235907403423744
+    m_Localized: XOGADORID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7236066824724480
+    m_Localized: "PUNTUACI\xD3N"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7236524914024448
+    m_Localized: REINICIAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7237206383566848
+    m_Localized: SAIR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9337330706456576
+    m_Localized: "M\xEDnimo 6 caracteres"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 7415586384720166999
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 1768739652018176
+        - id: 22047600713728
+        - id: 1768928051765248

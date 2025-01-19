@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Galician (gl)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Galician (gl)
+  m_GUID: 1a2f203b95689254aa78cc6733bf9ec4
+  m_SerializeEntries:
+  - m_GUID: 0e88584fdb8ed0c43a1f7340a833c444
+    m_Address: Musica_off
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-gl
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 16883f3e73a46534f923fd51c19c899d
+    m_Address: comezar_off
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-gl
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a4358bff0b21554691311aca198fa6e
+    m_Address: Volver_Off
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-gl
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e7275489448e5944be9824a5afa3022
+    m_Address: Musica_on
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-gl
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5861ad72762616d49a2238428f0a9a09
+    m_Address: opcions_on
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-gl
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5c24373230a7e2549bee972433e6bf87
+    m_Address: son_off
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-gl
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6098624041e03994c80d077f46ec5819
+    m_Address: opcions_off
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-gl
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 75d2d8bcdf939864bb780a4dc0140b0a
+    m_Address: sair_off
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-gl
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8729ca67a21042c4ba70b515b8fc58ac
+    m_Address: opcionsTitle
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-gl
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9523019abaac9be43b41eb727c9d25bd
+    m_Address: comezar_on
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-gl
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb59047b2115ebd4e82a8a78fa45eb6d
+    m_Address: Volver_On
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-gl
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d29f50047f9457c49a65a7c24832bc54
+    m_Address: son_on
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-gl
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa1faec7282d0464b937230a7099fc26
+    m_Address: sair_on
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-gl
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 60ea9c31b63e2d5469f5b146dbcf5907, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 90ba5176558188746bccbb874e95d566, type: 2}
+    - {fileID: 11400000, guid: 2e688213ed1b90240b0b1d416e90ab3d, type: 2}

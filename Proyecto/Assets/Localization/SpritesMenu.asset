@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4db626ad063b13545924a9839ac5fa83, type: 3}
+  m_Name: SpritesMenu
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 1e0c148c78480ce44b1e60e683e42c93, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 930e18929081c2c4fb38e66e5f39bd17, type: 2}
+  - {fileID: 11400000, guid: 8df628ac9a8b8bc4fa18ff409df7fcc2, type: 2}
+  - {fileID: 11400000, guid: 5df6c27110749cf428880feb8f598d1f, type: 2}
+  m_Extensions: []
+  m_Group: Asset Table
+  references:
+    version: 2
+    RefIds: []
